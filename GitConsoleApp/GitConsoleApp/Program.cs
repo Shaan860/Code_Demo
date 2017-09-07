@@ -10,7 +10,7 @@ namespace GitConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is repo connection");
+            Console.WriteLine("This is repo connection change 1");
             Console.ReadLine();
         }
     }
