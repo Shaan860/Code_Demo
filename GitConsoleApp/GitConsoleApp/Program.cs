@@ -11,6 +11,7 @@ namespace GitConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("This is repo connection change 1 2 3");
+            Console.WriteLine("Jenkins Build");
             Console.ReadLine();
         }
     }
